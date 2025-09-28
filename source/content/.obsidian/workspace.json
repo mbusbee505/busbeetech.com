@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4e7cf17bb4bc232",
+        "id": "1c5515e7b6c95d56",
         "type": "tabs",
         "children": [
           {
-            "id": "19c7880dfedf0c72",
+            "id": "3ecaff84fe93be1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "a73630e5d1915304",
+            "id": "996f812480b5da21",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "7. Enrolling iPhones"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,21 +186,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a73630e5d1915304",
+  "active": "3ecaff84fe93be1d",
   "lastOpenFiles": [
+    "M365X-Lab/attachments/8. Enrolling Androids-7.png",
+    "M365X-Lab/attachments/8. Enrolling Androids-6.png",
+    "M365X-Lab/attachments/8. Enrolling Androids-5.png",
+    "M365X-Lab/7. Enrolling iPhones.md",
+    "M365X-Lab/8. Enrolling Androids.md",
+    "M365X-Lab/attachments/8. Enrolling Androids-4.png",
+    "M365X-Lab/attachments/8. Enrolling Androids-3.png",
+    "M365X-Lab/attachments/8. Enrolling Androids-2.png",
+    "M365X-Lab/attachments/8. Enrolling Androids-1.png",
+    "M365X-Lab/attachments/8. Enrolling Androids-2.png",
     "M365X-Lab/attachments/7. Enrolling iPhones-15.png",
     "M365X-Lab/attachments/7. Enrolling iPhones-14.png",
     "M365X-Lab/attachments/7. Enrolling iPhones-13.png",
-    "M365X-Lab/8. Enrolling Androids.md",
-    "M365X-Lab/7. Enrolling iPhones.md",
-    "M365X-Lab/attachments/7. Enrolling iPhones-12.png",
-    "M365X-Lab/attachments/7. Enrolling iPhones-12.png",
-    "M365X-Lab/attachments/7. Enrolling iPhones-12.png",
-    "M365X-Lab/attachments/7. Enrolling iPhones-11.png",
-    "M365X-Lab/attachments/7. Enrolling iPhones-10.png",
-    "M365X-Lab/attachments/7. Enrolling iPhones-9.png",
-    "M365X-Lab/attachments/7. Enrolling iPhones-8.png",
-    "M365X-Lab/attachments/7. Enrolling iPhones-7.png",
     "M365X-Lab/appleid.apple.com.md",
     "M365X-Lab/6. Securing Devices.md",
     "index.md",
