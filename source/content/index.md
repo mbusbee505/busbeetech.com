@@ -21,7 +21,8 @@ In theory, an IT team could then ship a brand new laptop straight to a newly hir
 - ### [[4. Installing Apps]]
 - ### [[5. Creating Update Rings]]
 - ### [[6. Securing Devices]]
-
+- ### [[7. Enrolling iPhones]]
+- ### [[8. Enrolling Androids]]
 
 
 
