@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M365X-Lab/10. Project Conclusion.md",
+                "file": "Unpublished/SOC101-Lab/0. Project Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Project Conclusion"
+              "title": "0. Project Introduction"
             }
           }
         ]
@@ -174,6 +174,11 @@
   },
   "active": "125bb2b2e84eb695",
   "lastOpenFiles": [
+    "Unpublished/SOC101-Lab/Malware Analysis.md",
+    "Unpublished/SOC101-Lab/Endpoint Security.md",
+    "Unpublished/SOC101-Lab/PCAP Analysis.md",
+    "Unpublished/SOC101-Lab/Phishing Lab.md",
+    "M365X-Lab/10. Project Conclusion.md",
     "M365X-Lab/9. Monitoring and Reporting.md",
     "M365X-Lab/8. Enrolling Androids.md",
     "M365X-Lab/7. Enrolling iPhones.md",
@@ -185,7 +190,6 @@
     "M365X-Lab/1. Setting Up The Lab.md",
     "M365X-Lab/0. Project Introduction.md",
     "Unpublished/SOC101-Lab/0. Project Introduction.md",
-    "M365X-Lab/10. Project Conclusion.md",
     "M365X-Lab/attachments/10. Project Conclusion-3.png",
     "M365X-Lab/README.md.md",
     "M365X-Lab/attachments/10. Project Conclusion-2.png",
@@ -209,13 +213,10 @@
     "Setting Up Intune.md",
     "Enrolling Devices.md",
     "Intune Lab/1..md",
-    "1. Setting Up Intune.md",
     "M365X-Lab/attachments",
     "images",
     "images",
-    "category-folder/Some note.md",
     "M365X-Lab",
-    "category-folder/index.md",
     "category-folder"
   ]
 }
