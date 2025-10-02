@@ -10,7 +10,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "GitHub": "https://github.com/mbusbee505",
       "Email": "mailto:busbeetech@gmail.com",
-      "Twitter": "https://x.com/mbusbee505"
+      "Twitter": "https://x.com/mbusbee505",
+      "LinkedIn:": "https://www.linkedin.com/in/michael-busbee/"
     },
   }),
 }

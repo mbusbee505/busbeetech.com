@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee0c07bcb83af141",
+        "id": "13d200ab2cb4be7d",
         "type": "tabs",
         "children": [
           {
-            "id": "125bb2b2e84eb695",
+            "id": "5bbb9a21715ebbfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unpublished/SOC101-Lab/0. Project Introduction.md",
+                "file": "Unpublished/Custom Domain for Local Project on MacOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Project Introduction"
+              "title": "Custom Domain for Local Project on MacOS"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M365X-Lab/6. Securing Devices.md",
+                "file": "Unpublished/Lab Build Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Securing Devices"
+              "title": "Outline of Lab Build Prompt"
             }
           }
         ],
@@ -172,8 +172,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "125bb2b2e84eb695",
+  "active": "5bbb9a21715ebbfb",
   "lastOpenFiles": [
+    "Unpublished/Custom Domain for Local Project on MacOS.md",
+    "Unpublished/Installing Splunk on ARM.md",
+    "Unpublished/Lab Build Prompt.md",
+    "Unpublished/Alert Triage.md",
+    "Unpublished/Lets Defend/Http Basic Auth/2025-01-28-Http-Basic-Auth/image-8.png",
+    "Unpublished/Lets Defend/Http Basic Auth/2025-01-28-Http-Basic-Auth/image-7.png",
+    "Unpublished/Lets Defend/Http Basic Auth/2025-01-28-Http-Basic-Auth/image-4.png",
+    "Unpublished/Lets Defend/Http Basic Auth/2025-01-28-Http-Basic-Auth/image-6.png",
+    "Unpublished/Lets Defend/Http Basic Auth/2025-01-28-Http-Basic-Auth/image-5.png",
+    "Unpublished/Lets Defend/Http Basic Auth/2025-01-28-Http-Basic-Auth/image-3.png",
+    "Unpublished/Lets Defend/Http Basic Auth/2025-01-28-Http-Basic-Auth/image-2.png",
+    "Unpublished/Lets Defend/Http Basic Auth/2025-01-28-Http-Basic-Auth/image-1.png",
+    "Unpublished/Lets Defend/Shellshock Attack/2025-01-26-Shellshock-Attack/image-2.png",
+    "Unpublished/Lets Defend/Shellshock Attack/2025-01-26-Shellshock-Attack/image-1.png",
+    "Unpublished/Lets Defend/Http Basic Auth/Http-Basic-Auth.md",
+    "Unpublished/Lets Defend/Http Basic Auth/2025-01-28-Http-Basic-Auth",
+    "Unpublished/Lets Defend/Shellshock Attack/2025-01-26-Shellshock-Attack.md",
+    "Unpublished/Lets Defend/Shellshock Attack/2025-01-26-Shellshock-Attack",
+    "Unpublished/Lets Defend/Ransomware Attack/img",
+    "Unpublished/Lets Defend/Ransomware Attack/Ransomware-Attack.md",
+    "Unpublished/Lets Defend/Remote Working/2025-01-23-Remote-Working.md",
+    "Unpublished/Lets Defend/Remote Working/2025-01-23-Remote-Working",
+    "Unpublished/Lets Defend/Presentation as a Malware/2025-01-22-Presentation-As-a-Malware.md",
+    "Unpublished/Lets Defend/Presentation as a Malware/2025-01-22-Presentation-As-a-Malware",
+    "Unpublished/Lets Defend/Linux-Forensics/2025-01-20-Linux-Forensics.md",
+    "Unpublished/Lets Defend/Linux-Forensics/2025-01-20-Linux-Forensics",
+    "Unpublished/Lets Defend/Port Scan Activity/2025-01-29-Port-Scan-Activity.md",
+    "Unpublished/Lets Defend/Port Scan Activity/2025-01-29-Port-Scan-Activity",
+    "Unpublished/Lets Defend/Malicious Doc/2025-01-21-Malicious-Doc.md",
+    "Unpublished/Lets Defend/Malicious Doc/2025-01-21-Malicious-Doc",
+    "Unpublished/Lets Defend/Malicious VBA/2025-01-24-Malicious-VBA.md",
+    "Unpublished/Lets Defend/Malicious VBA/2025-01-24-Malicious-VBA",
+    "Unpublished/Lets Defend/Linux-Downloader/img",
+    "Unpublished/Lets Defend/Linux-Downloader/Linux-Downloader.md",
+    "Unpublished/Lets Defend/Investigate Web Attacks/2025-01-25-Investigate-Web-Attack.md",
+    "Unpublished/Lets Defend/IcedID Malware Family/IcedID-Malware-Family.md",
+    "Unpublished/Lets Defend/Disclose The Agent/2025-01-27-Disclose-The-Agent.md",
+    "Unpublished/SOC101-Lab/0. Project Introduction.md",
     "Unpublished/SOC101-Lab/Malware Analysis.md",
     "Unpublished/SOC101-Lab/Endpoint Security.md",
     "Unpublished/SOC101-Lab/PCAP Analysis.md",
@@ -181,42 +219,6 @@
     "M365X-Lab/10. Project Conclusion.md",
     "M365X-Lab/9. Monitoring and Reporting.md",
     "M365X-Lab/8. Enrolling Androids.md",
-    "M365X-Lab/7. Enrolling iPhones.md",
-    "M365X-Lab/6. Securing Devices.md",
-    "M365X-Lab/5. Creating Update Rings.md",
-    "M365X-Lab/4. Installing Apps.md",
-    "M365X-Lab/3. Polishing OOBE.md",
-    "M365X-Lab/2. Enrolling Devices.md",
-    "M365X-Lab/1. Setting Up The Lab.md",
-    "M365X-Lab/0. Project Introduction.md",
-    "Unpublished/SOC101-Lab/0. Project Introduction.md",
-    "M365X-Lab/attachments/10. Project Conclusion-3.png",
-    "M365X-Lab/README.md.md",
-    "M365X-Lab/attachments/10. Project Conclusion-2.png",
-    "M365X-Lab/attachments/10. Project Conclusion-1.png",
-    "M365X-Lab/attachments/10. Project Conclusion-1.png",
-    "M365X-Lab/attachments/9. Monitoring and Reporting-8.png",
-    "M365X-Lab/attachments/9. Monitoring and Reporting-7.png",
-    "M365X-Lab/attachments/9. Monitoring and Reporting-6.png",
-    "M365X-Lab/attachments/9. Monitoring and Reporting-5.png",
-    "M365X-Lab/attachments/9. Monitoring and Reporting-4.png",
-    "M365X-Lab/attachments/9. Monitoring and Reporting-3.png",
-    "index.md",
-    "M365X-Lab/appleid.apple.com.md",
-    "Untitled.md",
-    "Unpublished/SOC101-Lab",
-    "Unpublished/test.md",
-    "Unpublished",
-    "Untitled/Untitled",
-    "Home.md",
-    "Intune Lab/().md",
-    "Setting Up Intune.md",
-    "Enrolling Devices.md",
-    "Intune Lab/1..md",
-    "M365X-Lab/attachments",
-    "images",
-    "images",
-    "M365X-Lab",
-    "category-folder"
+    "M365X-Lab/7. Enrolling iPhones.md"
   ]
 }
