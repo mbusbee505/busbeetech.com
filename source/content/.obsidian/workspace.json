@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unpublished/Custom Domain for Local Project on MacOS.md",
+                "file": "Intune-Lab/10. Project Conclusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom Domain for Local Project on MacOS"
+              "title": "10. Project Conclusion"
             }
           }
         ]
@@ -174,6 +174,9 @@
   },
   "active": "5bbb9a21715ebbfb",
   "lastOpenFiles": [
+    "Intune-Lab/2. Enrolling Devices.md",
+    "Intune-Lab/1. Setting Up The Lab.md",
+    "Intune-Lab/0. Project Introduction.md",
     "Unpublished/Custom Domain for Local Project on MacOS.md",
     "Unpublished/Installing Splunk on ARM.md",
     "Unpublished/Lab Build Prompt.md",
@@ -216,9 +219,6 @@
     "Unpublished/SOC101-Lab/Endpoint Security.md",
     "Unpublished/SOC101-Lab/PCAP Analysis.md",
     "Unpublished/SOC101-Lab/Phishing Lab.md",
-    "M365X-Lab/10. Project Conclusion.md",
-    "M365X-Lab/9. Monitoring and Reporting.md",
-    "M365X-Lab/8. Enrolling Androids.md",
-    "M365X-Lab/7. Enrolling iPhones.md"
+    "Intune-Lab/10. Project Conclusion.md"
   ]
 }
