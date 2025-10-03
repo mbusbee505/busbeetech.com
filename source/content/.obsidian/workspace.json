@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -173,9 +174,9 @@
   },
   "active": "5bbb9a21715ebbfb",
   "lastOpenFiles": [
-    "Intune-Lab/0. Project Introduction.md",
-    "index.md",
     "Unpublished/Job Finder Inputs.md",
+    "index.md",
+    "Intune-Lab/0. Project Introduction.md",
     "Unpublished/Personal/Speechcraft/Poems/somewhere i have never travelled,gladly beyond.md",
     "Unpublished/Personal/Speechcraft/Poems/To Autumn.md",
     "Unpublished/Personal/Speechcraft/Poems/The Two Trees.md",
