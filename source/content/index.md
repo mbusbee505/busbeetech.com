@@ -24,7 +24,10 @@ In theory, an IT team could then ship a brand new laptop straight to a newly hir
 - ### [[7. Enrolling iPhones]]
 - ### [[8. Enrolling Androids]]
 
+## SOC101-Lab
 
+- ### [[SOC101-Lab/0. Project Introduction|0. Project Introduction]]
+- ### [[1. Lab Setup]]
 
 
 
