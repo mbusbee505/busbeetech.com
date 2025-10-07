@@ -4,11 +4,7 @@ title: 🏡 Home
 
 # BusbeeTech
 
-This is where I document my Lab Setups and other How-To's. Hopefully you find something here useful. 
-
-Currently I'm working on a Microsoft Intune lab to test deployment configurations of Windows 11 machines. Its fun to see a newly setup VM be able to push through a standardized fresh install based on organizational requirements, all just by the user entering their Microsoft Entra login credentials. 
-
-In theory, an IT team could then ship a brand new laptop straight to a newly hired remote employee and the employee could get themselves up and running within an hour with an automatic install.
+This is where I park my lab notes and how-tos—take what you need and break things with me. The Intune-Lab is now wrapped up, so if you want a zero-touch Windows 11 deployment that’s ready for a new hire in under an hour, start there. Next I’m kicking off the SOC101-Lab, wiring Zeek sensors into Splunk and Elastic, tossing Atomic Red Team at the targets, and tuning detections as I go. Stick around if that sounds fun.
 
 ---
 # Table of Contents
