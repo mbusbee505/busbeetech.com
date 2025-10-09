@@ -1,7 +1,6 @@
 @use "../../styles/variables.scss" as *;
 
 #sidebar-toggle {
-  display: none;
   position: fixed;
   top: 1rem;
   left: 1rem;
@@ -23,14 +22,6 @@
   svg {
     display: block;
   }
-
-  @media all and ($desktop) {
-    display: block;
-  }
-
-  @media all and ($mobile) {
-    display: none;
-  }
 }
 
 .sidebar.left {
@@ -40,6 +31,13 @@
     &.collapsed {
       transform: translateX(-100%);
       margin-left: -20rem;
+    }
+  }
+
+  // Mobile sidebar toggle
+  @media all and ($mobile) {
+    &.collapsed {
+      display: none;
     }
   }
 }
