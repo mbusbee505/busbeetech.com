@@ -5,30 +5,52 @@
 // Enhanced code block styling for better visibility
 pre {
   background-color: var(--code-bg) !important;
+  border: none !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
 
   & > code {
     font-family: var(--codeFont);
-    font-weight: 500;
+    font-weight: 600;
+    font-size: 0.9em;
 
     & > [data-line] {
       border-left: none !important;
+      border-right: none !important;
+      padding-left: 1rem !important;
+      padding-right: 1rem !important;
+    }
+
+    // Make syntax highlighting colors pop
+    span {
+      font-weight: 600 !important;
     }
   }
 }
 
 code {
   background-color: var(--inline-code-bg) !important;
-  font-weight: 500;
+  font-weight: 600;
+  padding: 0.15rem 0.4rem !important;
 }
 
-// Light mode code backgrounds
+// Light mode code backgrounds with better contrast
 :root {
-  --code-bg: #e8f4f8;
+  --code-bg: #1e293b;
   --inline-code-bg: #e1f0fa;
+
+  // Override Shiki colors for better contrast in light mode
+  pre code span {
+    filter: brightness(0.85) saturate(1.2);
+  }
 }
 
-// Dark mode code backgrounds
+// Dark mode code backgrounds with better contrast
 [saved-theme="dark"] {
-  --code-bg: #0d2438;
-  --inline-code-bg: #1a3a52;
+  --code-bg: #0f172a;
+  --inline-code-bg: #1e3a52;
+
+  // Make colors pop more in dark mode
+  pre code span {
+    filter: brightness(1.15) saturate(1.3);
+  }
 }
