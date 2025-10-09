@@ -1,0 +1,66 @@
+@use "../../styles/variables.scss" as *;
+
+#sidebar-toggle {
+  display: none;
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 10;
+  background-color: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 5px;
+  padding: 0.5rem;
+  cursor: pointer;
+  color: var(--dark);
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  &:hover {
+    background-color: var(--lightgray);
+    color: var(--secondary);
+  }
+
+  svg {
+    display: block;
+  }
+
+  @media all and ($desktop) {
+    display: block;
+  }
+
+  @media all and ($mobile) {
+    display: none;
+  }
+}
+
+.sidebar.left {
+  transition: transform 0.3s ease, margin-left 0.3s ease;
+
+  @media all and ($desktop) {
+    &.collapsed {
+      transform: translateX(-100%);
+      margin-left: -20rem;
+    }
+  }
+}
+
+body.sidebar-collapsed {
+  @media all and ($desktop) {
+    .page > #quartz-body {
+      grid-template-columns: 0 min(calc(100% - 5rem), 800px) 0;
+    }
+
+    #sidebar-toggle {
+      left: 1rem;
+    }
+  }
+}
+
+body:not(.sidebar-collapsed) {
+  @media all and ($desktop) {
+    #sidebar-toggle {
+      left: calc(#{map-get($desktopGrid, templateColumns)} + 1rem);
+      transition: left 0.3s ease;
+    }
+  }
+}
