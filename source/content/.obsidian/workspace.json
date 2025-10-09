@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -213,8 +214,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "e2d4bd73df52a3c5",
   "lastOpenFiles": [
+    "SOC101-Lab/attachments/2. Windows Environment-4.png",
+    "SOC101-Lab/attachments/2. Windows Environment-3.png",
+    "SOC101-Lab/attachments/2. Windows Environment-2.png",
+    "Unpublished/Lab Build Prompt.md",
+    "SOC101-Lab/2. Windows Environment.md",
+    "Unpublished/Controlling Proxmox CLI.md",
+    "SOC101-Lab/attachments/2. Windows Environment-2.png",
+    "SOC101-Lab/attachments/2. Windows Environment-1.png",
+    "SOC101-Lab/1. Hypervisor & Network.md",
     "Intune-Lab/9. Monitor & Report.md",
     "Intune-Lab/attachments/9. Monitor & Report-8.png",
     "Intune-Lab/attachments/9. Monitor & Report-7.png",
@@ -222,17 +232,9 @@
     "Intune-Lab/attachments/9. Monitor & Report-5.png",
     "Intune-Lab/attachments/9. Monitor & Report-4.png",
     "Intune-Lab/attachments/9. Monitor & Report-3.png",
-    "Intune-Lab/attachments/9. Monitor & Report-2.png",
-    "Intune-Lab/attachments/9. Monitor & Report-1.png",
     "Unpublished/Personal/Career/BSides NoVA Prep.md",
-    "SOC101-Lab/2. Windows Environment.md",
-    "SOC101-Lab/1. Hypervisor & Network.md",
-    "SOC101-Lab/attachments/1. Hypervisor & Network-9.png",
-    "SOC101-Lab/attachments/1. Hypervisor & Network-8.png",
     "SOC101-Lab/1. Hypervisor & Network Setup.md",
     "SOC101-Lab/1. Lab Setup.md",
-    "Unpublished/Lab Build Prompt.md",
-    "Unpublished/Controlling Proxmox CLI.md",
     "Unpublished/Personal/Device Setups/Windows.md",
     "Unpublished/Personal/Device Setups/Home Network.md",
     "Unpublished/Personal/Charisma/Presentation Openers.md",
@@ -259,7 +261,6 @@
     "Unpublished/SOCNOTES/Alert Triage.md",
     "Unpublished/Custom Domain for Local Project on MacOS.md",
     "Unpublished/Personal/Biohacking/Ozempic.md",
-    "Unpublished/Personal/Books.md",
-    "Unpublished/Personal/Speechcraft/Speeches.md"
+    "Unpublished/Personal/Books.md"
   ]
 }
