@@ -1,3 +1,30 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Enhanced code block styling for better visibility
+pre {
+  background-color: var(--code-bg) !important;
+
+  & > code {
+    font-family: var(--codeFont);
+    font-weight: 500;
+  }
+}
+
+code {
+  background-color: var(--inline-code-bg) !important;
+  font-weight: 500;
+}
+
+// Light mode code backgrounds
+:root {
+  --code-bg: #e8f4f8;
+  --inline-code-bg: #e1f0fa;
+}
+
+// Dark mode code backgrounds
+[saved-theme="dark"] {
+  --code-bg: #0d2438;
+  --inline-code-bg: #1a3a52;
+}
