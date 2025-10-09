@@ -9,6 +9,10 @@ pre {
   & > code {
     font-family: var(--codeFont);
     font-weight: 500;
+
+    & > [data-line] {
+      border-left: none !important;
+    }
   }
 }
 
