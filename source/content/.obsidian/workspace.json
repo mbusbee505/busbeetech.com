@@ -49,8 +49,7 @@
               "title": "Controlling Proxmox CLI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unpublished/Lab Build Prompt.md",
+                "file": "SOC101-Lab/1. Lab Setup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab Build Prompt"
+              "title": "Outline of 1. Lab Setup"
             }
           }
         ],
@@ -200,13 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "e2d4bd73df52a3c5",
   "lastOpenFiles": [
-    "SOC101-Lab/1. Lab Setup.md",
     "Unpublished/Lab Build Prompt.md",
+    "Unpublished/Controlling Proxmox CLI.md",
+    "SOC101-Lab/1. Lab Setup.md",
     "SOC101-Lab/attachments/1. Lab Setup-9.png",
     "SOC101-Lab/attachments/1. Lab Setup-8.png",
-    "Unpublished/Controlling Proxmox CLI.md",
     "SOC101-Lab/attachments/1. Lab Setup-7.png",
     "SOC101-Lab/attachments/1. Lab Setup-6.png",
     "SOC101-Lab/attachments/1. Lab Setup-5.png",
