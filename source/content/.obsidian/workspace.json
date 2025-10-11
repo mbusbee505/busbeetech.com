@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2d4bd73df52a3c5",
+            "id": "8c48899e5a7c8b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC101-Lab/2. Windows Environment.md",
+                "file": "SOC101-Lab/3. Security Onion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Windows Environment"
-            }
-          },
-          {
-            "id": "034bf03f0658a946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unpublished/Personal/Career/BSides NoVA Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BSides NoVA Prep"
-            }
-          },
-          {
-            "id": "2c6f4e8b3766bfc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unpublished/Lab Build Prompt.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lab Build Prompt"
+              "title": "3. Security Onion"
             }
           },
           {
@@ -214,27 +186,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2d4bd73df52a3c5",
+  "active": "8c48899e5a7c8b42",
   "lastOpenFiles": [
+    "SOC101-Lab/attachments/3. Security Onion-1.png",
+    "Unpublished/Controlling Proxmox CLI.md",
+    "SOC101-Lab/3. Security Onion.md",
+    "SOC101-Lab/2. Windows Environment.md",
+    "SOC101-Lab/0. Project Introduction.md",
+    "SOC101-Lab/1. Hypervisor & Network.md",
+    "SOC101-Lab/1. Lab Setup.md",
     "SOC101-Lab/attachments/2. Windows Environment-24.png",
     "SOC101-Lab/attachments/2. Windows Environment-23.png",
     "SOC101-Lab/attachments/2. Windows Environment-22.png",
     "SOC101-Lab/attachments/2. Windows Environment-21.png",
     "SOC101-Lab/attachments/2. Windows Environment-20.png",
     "Unpublished/Personal/Career/BSides NoVA Prep.md",
-    "Unpublished/Controlling Proxmox CLI.md",
     "Unpublished/Lab Build Prompt.md",
-    "SOC101-Lab/2. Windows Environment.md",
     "SOC101-Lab/attachments/2. Windows Environment-19.png",
     "SOC101-Lab/attachments/2. Windows Environment-18.png",
     "SOC101-Lab/attachments/2. Windows Environment-17.png",
     "SOC101-Lab/attachments/2. Windows Environment-16.png",
     "SOC101-Lab/attachments/2. Windows Environment-15.png",
-    "SOC101-Lab/attachments/2. Windows Environment-14.png",
-    "SOC101-Lab/1. Hypervisor & Network.md",
     "Intune-Lab/9. Monitor & Report.md",
     "SOC101-Lab/1. Hypervisor & Network Setup.md",
-    "SOC101-Lab/1. Lab Setup.md",
     "Unpublished/Personal/Device Setups/Windows.md",
     "Unpublished/Personal/Device Setups/Home Network.md",
     "Unpublished/Personal/Charisma/Presentation Openers.md",
@@ -251,7 +225,6 @@
     "Unpublished/SOCNOTES/2. Phishing Analysis..pdf",
     "Unpublished/SOCNOTES/1. SOC Fundamentals..pdf",
     "index.md",
-    "SOC101-Lab/0. Project Introduction.md",
     "Unpublished/SOC101-Lab/Endpoint Security.md",
     "Unpublished/SOC101-Lab/Malware Analysis.md",
     "Unpublished/SOC101-Lab/Phishing Lab.md",
@@ -260,7 +233,6 @@
     "Unpublished/SOC101-Lab/PCAP Analysis.md",
     "Unpublished/SOCNOTES/Alert Triage.md",
     "Unpublished/Custom Domain for Local Project on MacOS.md",
-    "Unpublished/Personal/Biohacking/Ozempic.md",
-    "Unpublished/Personal/Books.md"
+    "Unpublished/Personal/Biohacking/Ozempic.md"
   ]
 }
