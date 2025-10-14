@@ -34,20 +34,6 @@
               "icon": "lucide-file",
               "title": "Controlling Proxmox CLI"
             }
-          },
-          {
-            "id": "39911cc5a042f530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unpublished/Lab Build Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lab Build Prompt"
-            }
           }
         ]
       }
@@ -202,20 +188,21 @@
   },
   "active": "8c48899e5a7c8b42",
   "lastOpenFiles": [
+    "SOC101-Lab/attachments/3. Security Onion-23.png",
+    "SOC101-Lab/attachments/3. Security Onion-22.png",
+    "SOC101-Lab/attachments/3. Security Onion-21.png",
+    "SOC101-Lab/attachments/3. Security Onion-20.png",
+    "Unpublished/Security Onion integrate Splunk.md",
+    "SOC101-Lab/3. Security Onion.md",
+    "SOC101-Lab/attachments/3. Security Onion-19.png",
+    "SOC101-Lab/attachments/3. Security Onion-18.png",
+    "SOC101-Lab/attachments/3. Security Onion-17.png",
+    "SOC101-Lab/attachments/3. Security Onion-16.png",
     "SOC101-Lab/attachments/3. Security Onion-15.png",
     "SOC101-Lab/attachments/3. Security Onion-14.png",
     "SOC101-Lab/attachments/3. Security Onion-13.png",
-    "SOC101-Lab/attachments/3. Security Onion-12.png",
-    "SOC101-Lab/attachments/3. Security Onion-11.png",
-    "SOC101-Lab/attachments/3. Security Onion-10.png",
-    "SOC101-Lab/attachments/3. Security Onion-9.png",
-    "SOC101-Lab/attachments/3. Security Onion-8.png",
-    "SOC101-Lab/attachments/3. Security Onion-7.png",
-    "SOC101-Lab/attachments/3. Security Onion-6.png",
-    "SOC101-Lab/attachments/3. Security Onion-5.png",
     "SOC101-Lab/1. Hypervisor & Network.md",
     "SOC101-Lab/0. Project Introduction.md",
-    "SOC101-Lab/3. Security Onion.md",
     "Unpublished/Lab Build Prompt.md",
     "Unpublished/Controlling Proxmox CLI.md",
     "SOC101-Lab/2. Windows Environment.md",
@@ -246,7 +233,6 @@
     "Unpublished/Lets Defend/Disclose The Agent/2025-01-27-Disclose-The-Agent.md",
     "Unpublished/SOC101-Lab/PCAP Analysis.md",
     "Unpublished/SOCNOTES/Alert Triage.md",
-    "Unpublished/Custom Domain for Local Project on MacOS.md",
-    "Unpublished/Personal/Biohacking/Ozempic.md"
+    "Unpublished/Custom Domain for Local Project on MacOS.md"
   ]
 }
