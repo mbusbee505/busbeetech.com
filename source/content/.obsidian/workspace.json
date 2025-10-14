@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC101-Lab/3. Security Onion.md",
+                "file": "SOC101-Lab/4. Splunk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Security Onion"
+              "title": "4. Splunk"
             }
           },
           {
@@ -187,8 +187,22 @@
   },
   "active": "8c48899e5a7c8b42",
   "lastOpenFiles": [
-    "SOC101-Lab/4. Splunk.md",
     "SOC101-Lab/3. Security Onion.md",
+    "SOC101-Lab/2. Windows Environment.md",
+    "SOC101-Lab/1. Hypervisor & Network.md",
+    "SOC101-Lab/0. Project Introduction.md",
+    "Intune-Lab/10. Project Conclusion.md",
+    "Intune-Lab/9. Monitor & Report.md",
+    "Intune-Lab/8. Enrolling Androids.md",
+    "Intune-Lab/7. Enrolling iPhones.md",
+    "Intune-Lab/6. Securing Devices.md",
+    "Intune-Lab/5. Creating Update Rings.md",
+    "Intune-Lab/4. Installing Apps.md",
+    "Intune-Lab/3. Polishing OOBE.md",
+    "Intune-Lab/2. Enrolling Devices.md",
+    "Intune-Lab/1. Setting Up The Lab.md",
+    "Intune-Lab/0. Project Introduction.md",
+    "SOC101-Lab/4. Splunk.md",
     "SOC101-Lab/attachments/3. Security Onion-23.png",
     "SOC101-Lab/attachments/3. Security Onion-22.png",
     "SOC101-Lab/attachments/3. Security Onion-21.png",
@@ -200,21 +214,15 @@
     "SOC101-Lab/attachments/3. Security Onion-16.png",
     "SOC101-Lab/attachments/3. Security Onion-15.png",
     "SOC101-Lab/attachments/3. Security Onion-14.png",
-    "SOC101-Lab/1. Hypervisor & Network.md",
-    "SOC101-Lab/0. Project Introduction.md",
     "Unpublished/Lab Build Prompt.md",
     "Unpublished/Controlling Proxmox CLI.md",
-    "SOC101-Lab/2. Windows Environment.md",
     "SOC101-Lab/1. Lab Setup.md",
     "Unpublished/Personal/Career/BSides NoVA Prep.md",
-    "Intune-Lab/9. Monitor & Report.md",
     "SOC101-Lab/1. Hypervisor & Network Setup.md",
     "Unpublished/Personal/Device Setups/Windows.md",
     "Unpublished/Personal/Device Setups/Home Network.md",
     "Unpublished/Personal/Charisma/Presentation Openers.md",
     "Unpublished/Personal/Charisma/Office Christmas Party Rules.md",
-    "Unpublished/Personal/Charisma/Guilt Traps.md",
-    "Unpublished/Personal/Charisma/Build An Aura.md",
     "Unpublished/SOCNOTES/9. Incident Response..pdf",
     "Unpublished/SOCNOTES/8. Digital Forensics..pdf",
     "Unpublished/SOCNOTES/7. Threat Intelligence..pdf",
@@ -224,14 +232,6 @@
     "Unpublished/SOCNOTES/3. Network Security..pdf",
     "Unpublished/SOCNOTES/2. Phishing Analysis..pdf",
     "Unpublished/SOCNOTES/1. SOC Fundamentals..pdf",
-    "index.md",
-    "Unpublished/SOC101-Lab/Endpoint Security.md",
-    "Unpublished/SOC101-Lab/Malware Analysis.md",
-    "Unpublished/SOC101-Lab/Phishing Lab.md",
-    "Untitled",
-    "Unpublished/Lets Defend/Disclose The Agent/2025-01-27-Disclose-The-Agent.md",
-    "Unpublished/SOC101-Lab/PCAP Analysis.md",
-    "Unpublished/SOCNOTES/Alert Triage.md",
-    "Unpublished/Custom Domain for Local Project on MacOS.md"
+    "Untitled"
   ]
 }
