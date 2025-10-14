@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -188,19 +187,19 @@
   },
   "active": "8c48899e5a7c8b42",
   "lastOpenFiles": [
+    "SOC101-Lab/4. Splunk.md",
+    "SOC101-Lab/3. Security Onion.md",
     "SOC101-Lab/attachments/3. Security Onion-23.png",
     "SOC101-Lab/attachments/3. Security Onion-22.png",
     "SOC101-Lab/attachments/3. Security Onion-21.png",
     "SOC101-Lab/attachments/3. Security Onion-20.png",
     "Unpublished/Security Onion integrate Splunk.md",
-    "SOC101-Lab/3. Security Onion.md",
     "SOC101-Lab/attachments/3. Security Onion-19.png",
     "SOC101-Lab/attachments/3. Security Onion-18.png",
     "SOC101-Lab/attachments/3. Security Onion-17.png",
     "SOC101-Lab/attachments/3. Security Onion-16.png",
     "SOC101-Lab/attachments/3. Security Onion-15.png",
     "SOC101-Lab/attachments/3. Security Onion-14.png",
-    "SOC101-Lab/attachments/3. Security Onion-13.png",
     "SOC101-Lab/1. Hypervisor & Network.md",
     "SOC101-Lab/0. Project Introduction.md",
     "Unpublished/Lab Build Prompt.md",
