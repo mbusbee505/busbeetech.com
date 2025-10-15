@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       "GitHub": "https://github.com/mbusbee505",
       "Email": "mailto:busbeetech@gmail.com",
       "Twitter": "https://x.com/mbusbee505",
-      "LinkedIn:": "https://www.linkedin.com/in/michael-busbee/"
+      "LinkedIn": "https://www.linkedin.com/in/michael-busbee/"
     },
   }),
 }

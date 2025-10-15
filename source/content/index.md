@@ -24,6 +24,10 @@ This is where I park my lab notes and how-tos—take what you need and break thi
 
 - ### [[SOC101-Lab/0. Project Introduction|0. Project Introduction]]
 - ### [[1. Lab Setup]]
+- ### [[2. Windows Environment]]
+- ### [[3. Security Onion]]
+- ### [[4. Splunk]]
+
 
 
 

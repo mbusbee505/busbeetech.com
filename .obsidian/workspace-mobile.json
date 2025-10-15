@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Unpublished/Personal/Career/BSides NoVA Prep.md",
+                "file": "source/content/Unpublished/Lab Build Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BSides NoVA Prep"
+              "title": "Lab Build Prompt"
             }
           }
         ]
@@ -152,8 +152,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b73af3ac5542e906",
+  "active": "8d28a3bd700f3b7c",
   "lastOpenFiles": [
+    "source/content/Unpublished/Personal/Career/BSides NoVA Prep.md",
     "source/content/Unpublished/Personal/Charisma/Build An Aura.jpg",
     "Untitled.md"
   ]
