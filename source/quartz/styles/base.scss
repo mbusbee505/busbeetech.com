@@ -194,13 +194,10 @@ a {
       flex-direction: column;
       @media all and ($mobile) {
         gap: 0;
-        align-items: center;
-        position: initial;
+        align-items: flex-start;
         display: flex;
-        height: unset;
-        flex-direction: row;
-        padding: 0;
-        padding-top: 2rem;
+        flex-direction: column;
+        padding: 2rem;
       }
     }
 

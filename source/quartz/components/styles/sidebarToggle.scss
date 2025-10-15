@@ -36,8 +36,18 @@
 
   // Mobile sidebar toggle
   @media all and ($mobile) {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background-color: var(--light);
+    z-index: 999;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.15);
+    overflow-y: auto;
+    width: 280px;
+
     &.collapsed {
-      display: none;
+      transform: translateX(-100%);
     }
   }
 }
