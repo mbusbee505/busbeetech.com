@@ -8,62 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c48899e5a7c8b42",
+            "id": "a9e0c514b341c935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "SOC101-Lab/5. Forwarders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "5. Forwarders"
             }
           },
           {
-            "id": "6d7063dad99c73ff",
+            "id": "711d051f4fdea2ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC101-Lab/2. Windows Environment.md",
+                "file": "SOC101-Lab/4. Splunk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Windows Environment"
+              "title": "4. Splunk"
             }
           },
           {
-            "id": "1abddd338d58e7be",
+            "id": "4942eeafece109e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unpublished/Controlling Proxmox CLI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Controlling Proxmox CLI"
+              "title": "New tab"
             }
           },
           {
-            "id": "aac3f3c045ceac31",
+            "id": "36889bdb680f6b91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unpublished/JobFinder Tweaks.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "JobFinder Tweaks"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline"
             }
           }
         ],
@@ -198,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,53 +204,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c48899e5a7c8b42",
+  "active": "36889bdb680f6b91",
   "lastOpenFiles": [
-    "1. Lab Setup.md",
-    "index.md",
+    "SOC101-Lab/5. Forwarders.md",
     "SOC101-Lab/4. Splunk.md",
-    "SOC101-Lab/2. Windows Environment.md",
+    "Unpublished/Lets Defend/Remote Working/2025-01-23-Remote-Working.md",
+    "Unpublished/StickerSpark/Image Prompts.md",
+    "Unpublished/StickerSpark/Untitled.md",
+    "Unpublished/Controlling Proxmox CLI.md",
     "Unpublished/JobFinder Tweaks.md",
+    "Unpublished/Security Onion integrate Splunk.md",
+    "Unpublished/Lab Build Prompt.md",
+    "Unpublished/KB Articles/Investigating In Fischer.md",
+    "Unpublished/KB Articles/attachments/Investigating In Fischer-4.png",
+    "Unpublished/KB Articles/attachments/Investigating In Fischer-3.png",
+    "Unpublished/KB Articles/attachments/Investigating In Fischer-2.png",
+    "Unpublished/KB Articles/attachments/Investigating In Fischer-1.png",
+    "Unpublished/KB Articles/First-Time SUNet Account Activation.md",
+    "Unpublished/KB Articles/Forgot SUNet Password?.md",
+    "SOC101-Lab/2. Windows Environment.md",
+    "Unpublished/KB Articles/attachments/Forgot SUNet Password?-6.png",
+    "Unpublished/KB Articles/attachments/Forgot SUNet Password?-5.png",
+    "Unpublished/KB Articles/attachments/Forgot SUNet Password?-4.png",
+    "Unpublished/KB Articles/attachments/Forgot SUNet Password?-3.png",
+    "Unpublished/KB Articles/attachments/Forgot SUNet Password?-2.png",
+    "Unpublished/KB Articles/Fischer KBs.md",
+    "Unpublished/KB Articles/attachments/Forgot SUNet Password?-1.png",
+    "Unpublished/KB Articles/attachments",
+    "Unpublished/Personal/ChatGPT Personalization.md",
+    "Unpublished/KB Articles",
+    "Unpublished/Cat Groomer.md",
+    "Unpublished/StickerSpark/Sticker Ideas.md",
+    "Unpublished/StickerSpark/Business Plan.md",
+    "Unpublished/StickerSpark",
+    "index.md",
+    "1. Lab Setup.md",
     "SOC101-Lab/1. Hypervisor & Network.md",
     "SOC101-Lab/3. Security Onion.md",
-    "SOC101-Lab/attachments/4. Splunk-2.png",
-    "SOC101-Lab/attachments/4. Splunk-1.png",
-    "Unpublished/Controlling Proxmox CLI.md",
     "SOC101-Lab/0. Project Introduction.md",
     "Intune-Lab/10. Project Conclusion.md",
     "Intune-Lab/9. Monitor & Report.md",
     "Intune-Lab/8. Enrolling Androids.md",
-    "Intune-Lab/7. Enrolling iPhones.md",
-    "Intune-Lab/6. Securing Devices.md",
-    "Intune-Lab/5. Creating Update Rings.md",
-    "Intune-Lab/4. Installing Apps.md",
-    "Intune-Lab/3. Polishing OOBE.md",
-    "Intune-Lab/2. Enrolling Devices.md",
-    "Intune-Lab/1. Setting Up The Lab.md",
-    "Intune-Lab/0. Project Introduction.md",
-    "SOC101-Lab/attachments/3. Security Onion-23.png",
-    "SOC101-Lab/attachments/3. Security Onion-22.png",
-    "SOC101-Lab/attachments/3. Security Onion-21.png",
-    "SOC101-Lab/attachments/3. Security Onion-20.png",
-    "Unpublished/Security Onion integrate Splunk.md",
-    "SOC101-Lab/attachments/3. Security Onion-19.png",
-    "SOC101-Lab/attachments/3. Security Onion-18.png",
-    "SOC101-Lab/attachments/3. Security Onion-17.png",
-    "SOC101-Lab/attachments/3. Security Onion-16.png",
-    "Unpublished/Lab Build Prompt.md",
-    "SOC101-Lab/1. Lab Setup.md",
-    "Unpublished/Personal/Career/BSides NoVA Prep.md",
-    "SOC101-Lab/1. Hypervisor & Network Setup.md",
-    "Unpublished/Personal/Device Setups/Windows.md",
     "Unpublished/SOCNOTES/9. Incident Response..pdf",
     "Unpublished/SOCNOTES/8. Digital Forensics..pdf",
     "Unpublished/SOCNOTES/7. Threat Intelligence..pdf",
     "Unpublished/SOCNOTES/6. Security Information and Event Management..pdf",
     "Unpublished/SOCNOTES/5. Linux Endpoint Security..pdf",
     "Unpublished/SOCNOTES/4. Windows Endpoint Security..pdf",
-    "Unpublished/SOCNOTES/3. Network Security..pdf",
-    "Unpublished/SOCNOTES/2. Phishing Analysis..pdf",
-    "Unpublished/SOCNOTES/1. SOC Fundamentals..pdf",
-    "Untitled"
+    "Unpublished/SOCNOTES/3. Network Security..pdf"
   ]
 }
