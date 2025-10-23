@@ -2,9 +2,13 @@
 
 // put your custom CSS here!
 
-// Remove margin from page-header when header is empty
+// Remove top spacing from header and sidebars
 .page-header {
   margin-top: 0 !important;
+}
+
+.sidebar {
+  padding-top: 2rem !important;
 }
 
 // Enhanced code block styling for better visibility
