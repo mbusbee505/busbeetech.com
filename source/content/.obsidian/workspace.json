@@ -49,10 +49,14 @@
             "id": "36889bdb680f6b91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SOC101-Lab/0. Project Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0. Project Introduction"
             }
           }
         ],
@@ -177,12 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "SOC101-Lab/0. Project Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0. Project Introduction"
             }
           }
         ],
