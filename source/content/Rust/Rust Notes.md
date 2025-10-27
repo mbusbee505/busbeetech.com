@@ -6,7 +6,7 @@ use std:: env;
 
 fn main() {
 	let args: Vec<String> = env::args().collect();
-	let (first, second) = read_args(&args);
+	let config = read_args(&args);
 }
 
 struct Config {
